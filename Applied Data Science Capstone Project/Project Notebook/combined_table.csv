@@ -1,0 +1,141 @@
+Neighborhood,Businesses,Debt Risk Score,Walk Score,Population,Average Income
+"West Humber-Clairville, Toronto",2463,719,57,,
+"Mount Olive-Silverstone-Jamestown, Toronto",271,687,61,,
+"Thistletown-Beaumond Heights, Toronto",217,718,54,,
+"Rexdale-Kipling, Toronto",144,721,58,,
+"Elms-Old Rexdale, Toronto",67,692,48,,
+"Kingsview Village-The Westway, Toronto",160,717,56,,
+"Willowridge-Martingrove-Richview, Toronto",169,750,51,,
+"Humber Heights-Westmount, Toronto",82,753,58,,
+"Edenbridge-Humber Valley, Toronto",153,761,49,,
+"Princess-Rosethorn, Toronto",74,791,48,,
+"Eringate-Centennial-West Deane, Toronto",229,775,57,,
+"Markland Wood, Toronto",106,783,69,"10,240","51,695"
+"Etobicoke West Mall, Toronto",146,738,74,,
+"Islington-City Centre West, Toronto",2263,755,72,,
+"Kingsway South, Toronto",195,793,68,,
+"Stonegate-Queensway, Toronto",595,760,67,,
+"Mimico, Toronto",619,741,71,"14,198","47,011"
+"New Toronto, Toronto",368,719,79,"10,455","33,415"
+"Long Branch, Toronto",170,724,72,"9,625","37,288"
+"Alderwood, Toronto",309,764,70,"11,656","35,239"
+"Humber Summit, Toronto",1373,715,61,"12,766","26,117"
+"Humbermede, Toronto",374,695,58,"14,778","24,297"
+"Pelmo Park-Humberlea, Toronto",152,735,57,,
+"Black Creek, Toronto",306,661,62,,
+"Glenfield-Jane Heights, Toronto",587,678,61,,
+"Downsview-Roding-CFB, Toronto",985,692,59,,
+"York University Heights, Toronto",2643,698,60,"26,140","24,432"
+"Rustic, Toronto",48,692,60,,
+"Maple Leaf, Toronto",47,721,66,"20,313","27,611"
+"Brookhaven-Amesbury, Toronto",466,687,62,,
+"Yorkdale-Glen Park, Toronto",1468,729,72,,
+"Englemount-Lawrence, Toronto",175,730,70,,
+"Clanton Park, Toronto",357,740,63,,
+"Bathurst Manor, Toronto",244,745,61,"14,945","34,169"
+"Westminster-Branson, Toronto",83,730,61,,
+"Newtonbrook West, Toronto",483,737,69,,
+"Willowdale West, Toronto",363,766,78,,
+"Lansing-Westgate, Toronto",488,758,77,,
+"Bedford Park-Nortown, Toronto",676,776,73,,
+"St.Andrew-Windfields, Toronto",591,774,60,,
+"Bridle Path-Sunnybrook-York Mills, Toronto",58,788,58,,
+"Banbury-Don Mills, Toronto",834,776,67,,
+"Victoria Village, Toronto",431,730,71,"17,047","29,657"
+"Flemingdon Park, Toronto",185,721,63,"21,287","23,471"
+"Parkwoods-Donalda, Toronto",209,731,63,,
+"Pleasant View, Toronto",124,767,66,"16,615","29,250"
+"Don Valley Village, Toronto",373,756,79,"29,740","30,442"
+"Hillcrest Village, Toronto",424,775,68,,
+"Bayview Woods-Steeles, Toronto",93,777,57,,
+"Newtonbrook East, Toronto",400,757,64,,
+"Willowdale East, Toronto",849,759,84,,
+"Bayview Village, Toronto",460,768,71,"12,280","46,752"
+"Henry Farm, Toronto",717,736,76,"2,790","56,395"
+"O'Connor-Parkview, Toronto",346,725,67,,
+"Thorncliffe Park, Toronto",449,724,73,"17,949","25,340"
+"Leaside-Bennington, Toronto",313,791,77,,
+"Broadview North, Toronto",129,728,74,,
+"Old East York, Toronto",134,756,69,"52,220","33,172"
+"Danforth-East York, Toronto",167,763,77,,
+"Woodbine-Lumsden, Toronto",56,748,73,,
+"Taylor-Massey, Toronto",157,721,77,,
+"East End-Danforth, Toronto",516,741,85,,
+"The Beaches, Toronto",531,764,88,"20,416","67,536"
+"Woodbine Corridor, Toronto",146,749,85,,
+"Greenwood-Coxwell, Toronto",315,738,88,,
+"Danforth, Toronto",414,755,86,,
+"Playter Estates-Danforth, Toronto",301,757,90,,
+"North Riverdale, Toronto",327,767,90,,
+"Blake-Jones, Toronto",133,739,89,,
+"South Riverdale, Toronto",1197,746,91,,
+"Cabbagetown-South St.James Town, Toronto",290,744,91,,
+"Regent Park, Toronto",143,701,88,"10,387","19,521"
+"Moss Park, Toronto",841,709,95,,
+"North St.James Town, Toronto",243,705,93,,
+"Church-Yonge Corridor, Toronto",2443,736,98,,
+"Bay Street Corridor, Toronto",4324,755,99,"4,787","40,598"
+"Waterfront Communities-The Island, Toronto",2899,748,92,,
+"Kensington-Chinatown, Toronto",1883,728,97,,
+"University, Toronto",483,748,97,,
+"Palmerston-Little Italy, Toronto",521,742,95,,
+"Trinity-Bellwoods, Toronto",715,742,94,,
+"Niagara, Toronto",591,747,84,"6,524","44,611"
+"Dufferin Grove, Toronto",375,721,90,"9,875","27,961"
+"Little Portugal, Toronto",344,727,88,"5,013","29,224"
+"South Parkdale, Toronto",564,695,83,,
+"Roncesvalles, Toronto",540,741,91,"15,996","46,820"
+"High Park-Swansea, Toronto",448,770,79,,
+"High Park North, Toronto",254,759,84,"22,746","46,437"
+"Runnymede-Bloor West Village, Toronto",334,777,81,,
+"Junction Area, Toronto",631,733,83,,
+"Weston-Pellam Park, Toronto",178,698,75,,
+"Corso Italia-Davenport, Toronto",420,708,79,,
+"Dovercourt-Wallace Emerson-Juncti, Toronto",890,719,88,,
+"Wychwood, Toronto",379,745,86,"4,182","53,613"
+"Annex, Toronto",2328,755,94,,
+"Casa Loma, Toronto",258,771,80,"3,597","82,203"
+"Yonge-St.Clair, Toronto",468,771,84,,
+"Rosedale-Moore Park, Toronto",683,777,84,,
+"Mount Pleasant East, Toronto",463,777,88,,
+"Yonge-Eglinton, Toronto",690,759,89,,
+"Forest Hill South, Toronto",175,775,76,,
+"Forest Hill North, Toronto",144,749,77,,
+"Lawrence Park South, Toronto",167,784,72,,
+"Mount Pleasant West, Toronto",1129,753,95,,
+"Lawrence Park North, Toronto",381,790,78,,
+"Humewood-Cedarvale, Toronto",139,747,80,,
+"Oakwood Village, Toronto",255,713,82,,
+"Briar Hill-Belgravia, Toronto",477,719,81,,
+"Caledonia-Fairbank, Toronto",92,700,69,,
+"Keelesdale-Eglinton West, Toronto",266,707,69,,
+"Rockcliffe-Smythe, Toronto",314,710,61,,
+"Beechborough-Greenbrook, Toronto",128,677,62,,
+"Weston, Toronto",536,679,73,"16,476","27,446"
+"Lambton Baby Point, Toronto",66,749,70,,
+"Mount Dennis, Toronto",184,680,59,"21,284","23,910"
+"Steeles, Toronto",237,778,61,"24,696","26,660"
+"L'Amoreaux, Toronto",443,758,65,"45,862","26,375"
+"Tam O'Shanter-Sullivan, Toronto",343,756,64,,
+"Wexford/Maryvale, Toronto",945,735,67,,
+"Clairlea-Birchmount, Toronto",831,741,69,,
+"Oakridge, Toronto",201,704,71,"13,368","21,155"
+"Birchcliffe-Cliffside, Toronto",345,747,71,,
+"Cliffcrest, Toronto",200,748,54,"14,531","38,182"
+"Kennedy Park, Toronto",261,729,62,,
+"Ionview, Toronto",148,712,70,"13,025","25,078"
+"Dorset Park, Toronto",969,727,68,"14,189","26,525"
+"Bendale, Toronto",853,738,64,"28,945","29,723"
+"Agincourt South-Malvern West, Toronto",1378,756,66,,
+"Agincourt North, Toronto",353,765,66,,
+"Milliken, Toronto",2090,770,65,"26,272","25,243"
+"Rouge, Toronto",877,738,42,"22,724","29,230"
+"Malvern, Toronto",625,724,61,"44,324","25,677"
+"Centennial Scarborough, Toronto",126,774,54,,
+"Highland Creek, Toronto",91,751,54,"12,853","33,640"
+"Morningside, Toronto",108,711,53,"11,472","27,139"
+"West Hill, Toronto",424,706,66,"25,632","27,936"
+"Woburn, Toronto",1073,723,66,"48,507","26,190"
+"Eglinton East, Toronto",296,705,62,"22,387","25,307"
+"Scarborough Village, Toronto",228,699,70,"12,796","24,413"
+"Guildwood, Toronto",67,774,59,"12,820","40,806"

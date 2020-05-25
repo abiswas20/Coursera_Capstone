@@ -1,0 +1,75 @@
+index,Neighborhood,Businesses,Debt Risk Score,Walk Score,Population,Average Income,Number of Cafes,Number of Parks/Playgrounds
+1,"Thistletown-Beaumond Heights, Toronto",217,718,54,16790,28955,0.0,0.0
+2,"Kingsview Village-The Westway, Toronto",160,717,56,16254,32004,0.0,0.0
+3,"Willowridge-Martingrove-Richview, Toronto",169,750,51,26053,34579,1.0,0.0
+6,"Markland Wood, Toronto",106,783,69,10240,51695,0.0,1.0
+7,"Mimico, Toronto",619,741,71,14198,47011,1.0,0.0
+8,"New Toronto, Toronto",368,719,79,10455,33415,3.0,0.0
+9,"Long Branch, Toronto",170,724,72,9625,37288,1.0,1.0
+10,"Alderwood, Toronto",309,764,70,11656,35239,0.0,0.0
+11,"Humber Summit, Toronto",1373,715,61,12766,26117,0.0,1.0
+12,"Humbermede, Toronto",374,695,58,14778,24297,0.0,0.0
+13,"Pelmo Park-Humberlea, Toronto",152,735,57,4402,32002,0.0,1.0
+14,"Downsview-Roding-CFB, Toronto",985,692,59,36613,26751,0.0,0.0
+15,"York University Heights, Toronto",2643,698,60,26140,24432,0.0,0.0
+16,"Maple Leaf, Toronto",47,721,66,20313,27611,0.0,0.0
+17,"Brookhaven-Amesbury, Toronto",466,687,62,17318,27546,0.0,0.0
+18,"Yorkdale-Glen Park, Toronto",1468,729,72,18426,35022,0.0,0.0
+19,"Bathurst Manor, Toronto",244,745,61,14945,34169,0.0,1.0
+20,"Westminster-Branson, Toronto",83,730,61,16386,27826,0.0,0.0
+21,"Lansing-Westgate, Toronto",488,758,77,10052,46631,0.0,0.0
+22,"Bedford Park-Nortown, Toronto",676,776,73,13749,80827,0.0,0.0
+23,"Bridle Path-Sunnybrook-York Mills, Toronto",58,788,58,17564,92099,0.0,1.0
+24,"Banbury-Don Mills, Toronto",834,776,67,21372,47515,0.0,1.0
+25,"Victoria Village, Toronto",431,730,71,17047,29657,0.0,0.0
+26,"Flemingdon Park, Toronto",185,721,63,21287,23471,1.0,0.0
+27,"Parkwoods-Donalda, Toronto",209,731,63,26533,34811,0.0,1.0
+28,"Pleasant View, Toronto",124,767,66,16615,29250,0.0,1.0
+29,"Don Valley Village, Toronto",373,756,79,29740,30442,0.0,1.0
+30,"Bayview Woods-Steeles, Toronto",93,777,57,24696,26660,0.0,1.0
+31,"Bayview Village, Toronto",460,768,71,12280,46752,0.0,0.0
+32,"Henry Farm, Toronto",717,736,76,2790,56395,0.0,1.0
+33,"Thorncliffe Park, Toronto",449,724,73,17949,25340,0.0,0.0
+34,"Leaside-Bennington, Toronto",313,791,77,13876,82670,0.0,0.0
+35,"Old East York, Toronto",134,756,69,52220,33172,0.0,1.0
+36,"The Beaches, Toronto",531,764,88,20416,67536,1.0,2.0
+37,"Playter Estates-Danforth, Toronto",301,757,90,3968,44557,2.0,0.0
+38,"Cabbagetown-South St.James Town, Toronto",290,744,91,11120,50398,1.0,2.0
+39,"Regent Park, Toronto",143,701,88,10387,19521,0.0,1.0
+40,"Bay Street Corridor, Toronto",4324,755,99,4787,40598,2.0,1.0
+41,"Palmerston-Little Italy, Toronto",521,742,95,7917,31231,2.0,1.0
+42,"Niagara, Toronto",591,747,84,6524,44611,2.0,0.0
+43,"Dufferin Grove, Toronto",375,721,90,9875,27961,2.0,0.0
+44,"Little Portugal, Toronto",344,727,88,5013,29224,4.0,1.0
+45,"Roncesvalles, Toronto",540,741,91,15996,46820,3.0,0.0
+46,"High Park-Swansea, Toronto",448,770,79,11133,58681,0.0,4.0
+47,"High Park North, Toronto",254,759,84,22746,46437,0.0,1.0
+48,"Runnymede-Bloor West Village, Toronto",334,777,81,4382,42635,4.0,0.0
+49,"Weston-Pellam Park, Toronto",178,698,75,16476,27446,0.0,1.0
+50,"Corso Italia-Davenport, Toronto",420,708,79,8781,28335,1.0,0.0
+51,"Dovercourt-Wallace Emerson-Juncti, Toronto",890,719,88,10338,25029,3.0,1.0
+52,"Wychwood, Toronto",379,745,86,4182,53613,2.0,0.0
+53,"Casa Loma, Toronto",258,771,80,3597,82203,2.0,0.0
+54,"Rosedale-Moore Park, Toronto",683,777,84,7672,213941,0.0,0.0
+55,"Caledonia-Fairbank, Toronto",92,700,69,34121,28403,0.0,1.0
+56,"Weston, Toronto",536,679,73,16476,27446,0.0,1.0
+57,"Mount Dennis, Toronto",184,680,59,21284,23910,0.0,0.0
+58,"Steeles, Toronto",237,778,61,24696,26660,0.0,0.0
+59,"L'Amoreaux, Toronto",443,758,65,45862,26375,0.0,0.0
+60,"Clairlea-Birchmount, Toronto",831,741,69,11104,33392,0.0,0.0
+61,"Oakridge, Toronto",201,704,71,13368,21155,0.0,1.0
+62,"Birchcliffe-Cliffside, Toronto",345,747,71,9386,32701,0.0,0.0
+63,"Cliffcrest, Toronto",200,748,54,14531,38182,0.0,0.0
+64,"Ionview, Toronto",148,712,70,13025,25078,0.0,1.0
+65,"Dorset Park, Toronto",969,727,68,14189,26525,0.0,0.0
+66,"Bendale, Toronto",853,738,64,28945,29723,0.0,0.0
+67,"Milliken, Toronto",2090,770,65,26272,25243,0.0,0.0
+68,"Rouge, Toronto",877,738,42,22724,29230,0.0,1.0
+69,"Malvern, Toronto",625,724,61,44324,25677,0.0,1.0
+70,"Highland Creek, Toronto",91,751,54,12853,33640,0.0,0.0
+71,"Morningside, Toronto",108,711,53,11472,27139,1.0,2.0
+72,"West Hill, Toronto",424,706,66,25632,27936,0.0,0.0
+73,"Woburn, Toronto",1073,723,66,48507,26190,0.0,0.0
+74,"Eglinton East, Toronto",296,705,62,22387,25307,0.0,0.0
+75,"Scarborough Village, Toronto",228,699,70,12796,24413,0.0,0.0
+76,"Guildwood, Toronto",67,774,59,12820,40806,0.0,0.0
