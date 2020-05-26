@@ -10,6 +10,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Thistletown-Beaumond Heights, Toronto",43.737221999999996,-79.565278,Brar Pakwan,43.73808211197717,-79.56603733231371,Indian Restaurant
 "Thistletown-Beaumond Heights, Toronto",43.737221999999996,-79.565278,Shoppers Drug Mart,43.735588,-79.559843,Pharmacy
 "Thistletown-Beaumond Heights, Toronto",43.737221999999996,-79.565278,Roti-Roti Family Restaurant,43.73624095343682,-79.56353138707921,Caribbean Restaurant
+"Thistletown-Beaumond Heights, Toronto",43.737221999999996,-79.565278,Bengali Sweets And Restaurant,43.73856432870327,-79.56549956603676,Indian Restaurant
 "Thistletown-Beaumond Heights, Toronto",43.737221999999996,-79.565278,Karahi Point Etobicoke,43.7379956,-79.5662524,American Restaurant
 "Thistletown-Beaumond Heights, Toronto",43.737221999999996,-79.565278,Food Basics,43.73554350420851,-79.55971777440482,Supermarket
 "Kingsview Village-The Westway, Toronto",43.694444,-79.558611,Gourmet Express,43.69311138097989,-79.55729392261416,Chinese Restaurant
@@ -38,8 +39,8 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Willowridge-Martingrove-Richview, Toronto",43.677222,-79.550833,Timothy's World News Cafe,43.67930625462119,-79.5468667405025,Café
 "Willowridge-Martingrove-Richview, Toronto",43.677222,-79.550833,Pet Valu,43.67943347389306,-79.54691723525487,Pet Store
 "Willowridge-Martingrove-Richview, Toronto",43.677222,-79.550833,Asian Express,43.67945746920416,-79.54632995855519,Asian Restaurant
-"Humber Heights-Westmount, Toronto",43.68846954999999,-79.5063904344015,Schipano Fine Foods,43.68981500205142,-79.50417280197144,Italian Restaurant
 "Humber Heights-Westmount, Toronto",43.68846954999999,-79.5063904344015,Portage Gardens Park,43.691573971707285,-79.50790725503823,Park
+"Humber Heights-Westmount, Toronto",43.68846954999999,-79.5063904344015,Sicilian Riceballs,43.691598679366706,-79.50959843585086,Food Truck
 "Markland Wood, Toronto",43.63123865,-79.58543401986114,Markland Wood Golf Club,43.629056528810054,-79.58113105899704,Golf Course
 "Markland Wood, Toronto",43.63123865,-79.58543401986114,Ring Busch Gardens,43.6276624630308,-79.58661315272029,Piano Bar
 "Markland Wood, Toronto",43.63123865,-79.58543401986114,Fleetwood Park,43.635236545112875,-79.58783626556396,Baseball Field
@@ -47,7 +48,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Mimico, Toronto",43.6166773,-79.4968048,SanRemo Bakery,43.618542136521064,-79.49948481145465,Bakery
 "Mimico, Toronto",43.6166773,-79.4968048,The Blue Goose,43.61678873297203,-79.4958701202763,Bar
 "Mimico, Toronto",43.6166773,-79.4968048,Mimico Arena,43.612739007491555,-79.49868183926128,Skating Rink
-"Mimico, Toronto",43.6166773,-79.4968048,Jimmy’s Coffee,43.618715,-79.499506,Café
+"Mimico, Toronto",43.6166773,-79.4968048,Breakfast Room,43.618904,-79.499738,American Restaurant
 "New Toronto, Toronto",43.6007625,-79.505264,Huevos Gourmet,43.601187646118454,-79.50371705335499,Mexican Restaurant
 "New Toronto, Toronto",43.6007625,-79.505264,Cellar Door Restaurant,43.600221,-79.507638,Italian Restaurant
 "New Toronto, Toronto",43.6007625,-79.505264,Sweet Olenka's,43.60109921195078,-79.50032493418274,Dessert Shop
@@ -58,12 +59,13 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "New Toronto, Toronto",43.6007625,-79.505264,Domino's Pizza,43.60158294371704,-79.50090463107409,Pizza Place
 "New Toronto, Toronto",43.6007625,-79.505264,Lucky Dice Restaurant,43.601392135734876,-79.50305626141281,Café
 "New Toronto, Toronto",43.6007625,-79.505264,Shoppers Drug Mart,43.601677,-79.502239,Pharmacy
-"New Toronto, Toronto",43.6007625,-79.505264,The Gallery Studio Cafe,43.601045428199775,-79.50335741043091,Café
+"New Toronto, Toronto",43.6007625,-79.505264,Cherry Jam,43.601721,-79.505838,Music Venue
 "New Toronto, Toronto",43.6007625,-79.505264,Popeyes Louisiana Kitchen,43.6020694028516,-79.49940016778937,Fried Chicken Joint
+"New Toronto, Toronto",43.6007625,-79.505264,Big Guy's Little Coffee Shop,43.60135897342198,-79.50247984584817,Coffee Shop
+"New Toronto, Toronto",43.6007625,-79.505264,Hex-Mex,43.60126068149633,-79.50228440295261,Mexican Restaurant
 "New Toronto, Toronto",43.6007625,-79.505264,Sense Appeal,43.601729,-79.501063,Café
-"New Toronto, Toronto",43.6007625,-79.505264,Lakeshore Village Fruit,43.60125787389022,-79.50048875136308,Flower Shop
+"New Toronto, Toronto",43.6007625,-79.505264,Halibut House Fish and Chips Inc.,43.60196,-79.501147,Seafood Restaurant
 "New Toronto, Toronto",43.6007625,-79.505264,Lakeshore Village,43.59818079612296,-79.50138985858813,Scenic Lookout
-"New Toronto, Toronto",43.6007625,-79.505264,Coffee Time,43.6022843976276,-79.4998572447178,Coffee Shop
 "New Toronto, Toronto",43.6007625,-79.505264,Crossfit Colosseum,43.604815756762726,-79.50702399614443,Gym
 "Long Branch, Toronto",43.59200455,-79.54536450659592,Woody's Burgers bar and grill,43.592424147416416,-79.54182508134274,Burger Joint
 "Long Branch, Toronto",43.59200455,-79.54536450659592,Fair Grounds Cafe & Roastery,43.5924650760416,-79.54157876415731,Café
@@ -73,9 +75,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Long Branch, Toronto",43.59200455,-79.54536450659592,Busters Fish House,43.59286342322491,-79.54004485440322,Seafood Restaurant
 "Long Branch, Toronto",43.59200455,-79.54536450659592,Shoppers Drug Mart,43.593864,-79.539864,Pharmacy
 "Long Branch, Toronto",43.59200455,-79.54536450659592,Royal Canadian Legion,43.590990007424985,-79.54502422885585,Bar
-"Long Branch, Toronto",43.59200455,-79.54536450659592,TTC Stop #5511,43.59189334931204,-79.5440686334534,Light Rail Station
-"Long Branch, Toronto",43.59200455,-79.54536450659592,Long Branch TTC Loop,43.59178330883106,-79.54412257253203,Light Rail Station
-"Long Branch, Toronto",43.59200455,-79.54536450659592,Marie Curtis Dog Park,43.58924916354021,-79.54429222086894,Dog Run
+"Long Branch, Toronto",43.59200455,-79.54536450659592,Pendragon Comics,43.59246476512101,-79.54079729678442,Hobby Shop
 "Long Branch, Toronto",43.59200455,-79.54536450659592,LCBO,43.5938772573663,-79.5404141024165,Liquor Store
 "Long Branch, Toronto",43.59200455,-79.54536450659592,Dollarama,43.593866,-79.539825,Discount Store
 "Alderwood, Toronto",43.6017173,-79.5452325,Il Paesano Pizzeria & Restaurant,43.60128,-79.545028,Pizza Place
@@ -84,22 +84,21 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Alderwood, Toronto",43.6017173,-79.5452325,Tim Hortons,43.60239631505536,-79.5450476557017,Coffee Shop
 "Alderwood, Toronto",43.6017173,-79.5452325,Pizza Pizza,43.60534035117562,-79.54725175609202,Pizza Place
 "Alderwood, Toronto",43.6017173,-79.5452325,Subway,43.59915224732402,-79.54439458247475,Sandwich Place
-"Alderwood, Toronto",43.6017173,-79.5452325,Alderwood Pool,43.60180197683229,-79.54724725574704,Pool
+"Alderwood, Toronto",43.6017173,-79.5452325,Taras Shevchenko Ukrainian Community Centre,43.60220720982585,-79.54366246716957,Dance Studio
 "Alderwood, Toronto",43.6017173,-79.5452325,Sir Adam Beck Rink,43.602526494798546,-79.5474551115246,Skating Rink
 "Alderwood, Toronto",43.6017173,-79.5452325,Rexall,43.601951,-79.545694,Pharmacy
 "Humber Summit, Toronto",43.7600778,-79.5717598,Capri Pastries,43.760233278306124,-79.57168917410124,Bakery
 "Humber Summit, Toronto",43.7600778,-79.5717598,Islington Park,43.762474341095945,-79.57137641147332,Park
 "Humber Summit, Toronto",43.7600778,-79.5717598,Nile Academy Gmy,43.762342304611515,-79.56993329978081,Gym
-"Humber Summit, Toronto",43.7600778,-79.5717598,JSHC Contracting,43.7611244,-79.5777044,Construction & Landscaping
 "Humbermede, Toronto",43.746297,-79.541186,Habitant Arena,43.74719060258867,-79.54018253583813,Hockey Field
 "Humbermede, Toronto",43.746297,-79.541186,Asteeg Clothing,43.7462727,-79.5400371,Clothing Store
 "Humbermede, Toronto",43.746297,-79.541186,Tenren's Tea Time,43.74867056537947,-79.54219147141178,Tea Room
 "Humbermede, Toronto",43.746297,-79.541186,Habitant Arena,43.747718107344085,-79.53806204917292,Hockey Arena
-"Humbermede, Toronto",43.746297,-79.541186,Pinnacle Kitchens Inc.,43.7443908,-79.5358873,Home Service
 "Pelmo Park-Humberlea, Toronto",43.7121949,-79.51755639837398,Pelmo Community Centre,43.71441852002091,-79.51989309816359,Outdoors & Recreation
 "Pelmo Park-Humberlea, Toronto",43.7121949,-79.51755639837398,Pelmo Park,43.71193889047829,-79.51299705851368,Park
 "Downsview-Roding-CFB, Toronto",43.732222,-79.49333299999999,Basement Now,43.733770736756334,-79.49095487594604,Construction & Landscaping
 "Downsview-Roding-CFB, Toronto",43.732222,-79.49333299999999,Roding Park,43.728655041194294,-79.49291760986993,Baseball Field
+"Downsview-Roding-CFB, Toronto",43.732222,-79.49333299999999,Aesthetics by Natalie,43.73257688209688,-79.48760747909546,Spa
 "York University Heights, Toronto",43.7587808,-79.5194336,No Frills,43.758178,-79.51968,Grocery Store
 "York University Heights, Toronto",43.7587808,-79.5194336,Pho Com Viet Nam,43.75663119859895,-79.51833633068185,Vietnamese Restaurant
 "York University Heights, Toronto",43.7587808,-79.5194336,Popeyes Louisiana Kitchen,43.75660425382002,-79.51604685393343,Fried Chicken Joint
@@ -112,15 +111,17 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "York University Heights, Toronto",43.7587808,-79.5194336,Subway,43.75622810178744,-79.51833268621584,Sandwich Place
 "York University Heights, Toronto",43.7587808,-79.5194336,Pizza Pizza,43.756185976894656,-79.5154595375061,Pizza Place
 "York University Heights, Toronto",43.7587808,-79.5194336,McDonald's,43.757325,-79.514091,Fast Food Restaurant
+"York University Heights, Toronto",43.7587808,-79.5194336,Dollarama,43.758177,-79.519679,Discount Store
 "York University Heights, Toronto",43.7587808,-79.5194336,Planet Fitness,43.757538,-79.51961,Gym / Fitness Center
 "York University Heights, Toronto",43.7587808,-79.5194336,LCBO,43.759256617873106,-79.51945388294175,Liquor Store
-"York University Heights, Toronto",43.7587808,-79.5194336,Living Well,43.756460538385106,-79.51598949881128,Caribbean Restaurant
+"York University Heights, Toronto",43.7587808,-79.5194336,Jian Hing Supermarket,43.75667320052111,-79.51844367991136,Grocery Store
 "York University Heights, Toronto",43.7587808,-79.5194336,Pita Land,43.757520253440326,-79.51462786652858,Falafel Restaurant
 "York University Heights, Toronto",43.7587808,-79.5194336,Dollarama,43.75677,-79.515084,Discount Store
 "Maple Leaf, Toronto",43.7122767,-79.4901977,Rustic Bakery,43.715413998974796,-79.49030028640821,Bakery
+"Maple Leaf, Toronto",43.7122767,-79.4901977,Sporty,43.71650314331055,-79.48983764648438,Basketball Court
+"Brookhaven-Amesbury, Toronto",43.700556,-79.490278,Mozanta Pool Services,43.697845,-79.489082,Pool
 "Brookhaven-Amesbury, Toronto",43.700556,-79.490278,Superking Supermarket 鸿發 Siêu Thi Dai Vuong,43.70452431495363,-79.49240382948112,Supermarket
 "Brookhaven-Amesbury, Toronto",43.700556,-79.490278,Sieu Thi Dai Giang (Lawrence Supermarket),43.7046142428013,-79.49248202264647,Grocery Store
-"Brookhaven-Amesbury, Toronto",43.700556,-79.490278,Vaughan Office Furniture Inc.,43.70413052257732,-79.4868229329586,Lighting Store
 "Brookhaven-Amesbury, Toronto",43.700556,-79.490278,100% Salvadoreño,43.697082,-79.494217,South American Restaurant
 "Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Columbus Colombian Bakery (Panaderia Colombiana),43.709172692546765,-79.45333079398473,Latin American Restaurant
 "Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Dairy Queen,43.7100679,-79.4534411,Ice Cream Shop
@@ -131,8 +132,8 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Lady York Foods,43.709445370032775,-79.45297906087649,Grocery Store
 "Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Petro-Canada,43.707186,-79.453231,Gas Station
 "Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Darosa,43.706969836937915,-79.453120889328,Mediterranean Restaurant
-"Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,CINQUElire,43.708497217747784,-79.45371253229237,Italian Restaurant
-"Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,44 wide,43.70289341798801,-79.45288896560669,Photography Lab
+"Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Enterprise Rent-A-Car,43.70644,-79.45256,Rental Car Location
+"Yorkdale-Glen Park, Toronto",43.7064433,-79.4526856,Country Style,43.70222464715636,-79.45264116764083,Coffee Shop
 "Bathurst Manor, Toronto",43.76389295,-79.45636693710946,Wilmington Convenience And Produce,43.76492492612054,-79.45508605844655,Convenience Store
 "Bathurst Manor, Toronto",43.76389295,-79.45636693710946,Chapley Baseball Park,43.76209961275248,-79.45586621215949,Baseball Field
 "Bathurst Manor, Toronto",43.76389295,-79.45636693710946,Wilmington Park,43.761533640535525,-79.45609146657658,Playground
@@ -144,14 +145,12 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Westminster-Branson, Toronto",43.656000000000006,-79.475,Pizza Hut,43.652272,-79.471873,Pizza Place
 "Westminster-Branson, Toronto",43.656000000000006,-79.475,Revina Park,43.65868647524527,-79.4730773540552,Baseball Field
 "Lansing-Westgate, Toronto",43.7589503,-79.4225555,Harlandale park,43.76014227140832,-79.42135181781453,Playground
-"Lansing-Westgate, Toronto",43.7589503,-79.4225555,Doll Face Spa,43.759435124323446,-79.41941168206684,Spa
+"Lansing-Westgate, Toronto",43.7589503,-79.4225555,Cain Pest Control,43.755222,-79.424621,Home Service
 "Bedford Park-Nortown, Toronto",43.73,-79.411,Pizza Pizza,43.731952,-79.415019,Pizza Place
-"Bedford Park-Nortown, Toronto",43.73,-79.411,SquareFoot Developments,43.726374656766495,-79.41011980175972,Construction & Landscaping
-"Bedford Park-Nortown, Toronto",43.73,-79.411,Jamba Juice,43.731343087220075,-79.41589405142237,Juice Bar
+"Bedford Park-Nortown, Toronto",43.73,-79.411,Pizzaville,43.73185848654103,-79.40539116075962,Pizza Place
 "Bridle Path-Sunnybrook-York Mills, Toronto",43.721111,-79.377778,Second Cup,43.721382,-79.376428,Coffee Shop
 "Bridle Path-Sunnybrook-York Mills, Toronto",43.721111,-79.377778,Stratford Park,43.721188834038735,-79.37918727876868,Park
-"Bridle Path-Sunnybrook-York Mills, Toronto",43.721111,-79.377778,Bistro On the Go: Sunnybrook,43.7216295207983,-79.37642455101013,Food Court
-"Bridle Path-Sunnybrook-York Mills, Toronto",43.721111,-79.377778,Druxy's,43.720452031008826,-79.3779390913827,Deli / Bodega
+"Bridle Path-Sunnybrook-York Mills, Toronto",43.721111,-79.377778,Purblendz,43.72244334751209,-79.37496426861122,Juice Bar
 "Banbury-Don Mills, Toronto",43.7348039,-79.3572426,Edwards Gardens,43.73357397323459,-79.35832879576286,Park
 "Banbury-Don Mills, Toronto",43.7348039,-79.3572426,Toronto Botanical Garden,43.73410440082706,-79.35832146261272,Botanical Garden
 "Banbury-Don Mills, Toronto",43.7348039,-79.3572426,Tim Hortons,43.73514964802937,-79.35564748942846,Coffee Shop
@@ -159,7 +158,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Victoria Village, Toronto",43.732658,-79.3111892,Armenian Kitchen,43.73107096414275,-79.30539020048727,Middle Eastern Restaurant
 "Victoria Village, Toronto",43.732658,-79.3111892,Jatujak,43.736207542145884,-79.30766830088342,Thai Restaurant
 "Victoria Village, Toronto",43.732658,-79.3111892,TTC Bus #24 Victoria Park Ave,43.73519712929972,-79.30697679519653,Bus Line
-"Victoria Village, Toronto",43.732658,-79.3111892,Artistic Nails,43.73612,-79.30808,Spa
+"Victoria Village, Toronto",43.732658,-79.3111892,Tagpuan,43.735943360819704,-79.30765061665487,Asian Restaurant
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Kaiseki Yu-Zen Hashimoto,43.720931369435235,-79.33718506953988,Japanese Restaurant
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Sunny Foodmart,43.71440700906993,-79.33370230230358,Grocery Store
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Shaheen Tikka & Kabab House,43.71401101858947,-79.33429628953289,Pakistani Restaurant
@@ -168,14 +167,14 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Shoppers Drug Mart,43.714038,-79.334223,Pharmacy
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Tim Hortons,43.716707,-79.338893,Coffee Shop
 "Flemingdon Park, Toronto",43.7184315,-79.333204,McDonald's,43.714692448066195,-79.33381727976229,Fast Food Restaurant
-"Flemingdon Park, Toronto",43.7184315,-79.333204,Delimark Cafe,43.72036965876474,-79.3315187900018,Coffee Shop
+"Flemingdon Park, Toronto",43.7184315,-79.333204,Dennis R. Timbrell Resource Centre,43.71809589676559,-79.33172784333826,Gym / Fitness Center
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Maria's Corner Cafe,43.72090540009802,-79.33233849644765,Café
 "Flemingdon Park, Toronto",43.7184315,-79.333204,The Cove (Nature Trail),43.7188859715568,-79.3290156148973,Trail
 "Flemingdon Park, Toronto",43.7184315,-79.333204,Living Earth Exhibit,43.71636704626102,-79.33712455769803,Science Museum
 "Flemingdon Park, Toronto",43.7184315,-79.333204,411.ca Lounge,43.72234747924456,-79.33427466589445,Dance Studio
 "Flemingdon Park, Toronto",43.7184315,-79.333204,The Buick,43.72247032631872,-79.33426139879268,Nightclub
-"Flemingdon Park, Toronto",43.7184315,-79.333204,Druxy's,43.722452576926294,-79.3345573665101,Deli / Bodega
 "Flemingdon Park, Toronto",43.7184315,-79.333204,411.ca,43.72250539869908,-79.33427521215923,Office
+"Flemingdon Park, Toronto",43.7184315,-79.333204,Caribbean Palms Restaurant,43.71402823628145,-79.33404332370125,Caribbean Restaurant
 "Parkwoods-Donalda, Toronto",43.751000000000005,-79.32300000000001,TTC stop #8380,43.752672,-79.326351,Bus Stop
 "Parkwoods-Donalda, Toronto",43.751000000000005,-79.32300000000001,Mrs. Claus' Sweatshop,43.75380047665277,-79.31958174171733,Public Art
 "Parkwoods-Donalda, Toronto",43.751000000000005,-79.32300000000001,Broadlands Park,43.74674606903112,-79.32250154263845,Park
@@ -203,13 +202,12 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Pizza Pizza,43.792929,-79.353802,Pizza Place
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Tim Hortons,43.79312172438749,-79.3544919411392,Coffee Shop
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Listo's No Frills,43.794373,-79.353754,Grocery Store
-"Don Valley Village, Toronto",43.7926732,-79.3547219,Deer Garden Signatures 鹿園魚湯米線,43.794298,-79.354162,Chinese Restaurant
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Pet Valu,43.79409,-79.353547,Pet Store
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Pizza Hut,43.79323521064546,-79.35359882737777,Pizza Place
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Subway,43.795346355658275,-79.34974493981167,Sandwich Place
 "Don Valley Village, Toronto",43.7926732,-79.3547219,Linus Park,43.789407860853395,-79.35701982865113,Park
+"Don Valley Village, Toronto",43.7926732,-79.3547219,Pita Pit,43.795059446833,-79.35003966093063,Sandwich Place
 "Bayview Woods-Steeles, Toronto",43.7981268,-79.3829726,Bestview Hiking Trails,43.797368,-79.382227,Trail
-"Bayview Woods-Steeles, Toronto",43.7981268,-79.3829726,Tyndale Student Coffee Co-Op,43.79992392481517,-79.38557091680819,Coffee Shop
 "Bayview Woods-Steeles, Toronto",43.7981268,-79.3829726,East Don Parkland,43.795658,-79.381068,Park
 "Bayview Woods-Steeles, Toronto",43.7981268,-79.3829726,Baseball Fields/Park,43.79564427132376,-79.3852135326851,Dog Run
 "Bayview Village, Toronto",43.7691966,-79.3766617,Taro's Fish,43.76996164341515,-79.37465906198047,Fish Market
@@ -223,12 +221,10 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Bayview Village, Toronto",43.7691966,-79.3766617,Pizza Pizza,43.76977203092848,-79.37554445505702,Pizza Place
 "Bayview Village, Toronto",43.7691966,-79.3766617,Subway,43.7701119,-79.3745923,Sandwich Place
 "Bayview Village, Toronto",43.7691966,-79.3766617,TD Canada Trust,43.769679901894676,-79.37133103609085,Bank
-"Bayview Village, Toronto",43.7691966,-79.3766617,Bessarion Subway Station,43.769261840475664,-79.37613043750773,Metro Station
 "Bayview Village, Toronto",43.7691966,-79.3766617,Pet Valu,43.769561847733755,-79.37562452768624,Pet Store
 "Bayview Village, Toronto",43.7691966,-79.3766617,Mark's,43.7698976174006,-79.37136246071759,Clothing Store
 "Henry Farm, Toronto",43.7695089,-79.354296,Havenbrook Park,43.76808775388712,-79.35562133789062,Park
 "Henry Farm, Toronto",43.7695089,-79.354296,Henry Farm Community Tennis Club,43.76766937219664,-79.35773491859435,Tennis Court
-"Henry Farm, Toronto",43.7695089,-79.354296,Canadian Immigration Lawyers,43.7722404208697,-79.35225248336792,Lawyer
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Fit4Less,43.705689,-79.346018,Gym
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Costco,43.70705091308799,-79.3480933503406,Warehouse Store
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Bamiyan Kabob,43.70782435998825,-79.34344628586337,Afghan Restaurant
@@ -250,12 +246,10 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Afghan Cuisine,43.7080751573203,-79.34298516936218,Afghan Restaurant
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Swiss Chalet,43.707786042366365,-79.34413242874473,Restaurant
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Anatolian's Turkish Restaurant,43.708056671215886,-79.34263647483004,Turkish Restaurant
-"Thorncliffe Park, Toronto",43.704553,-79.3454074,Quiznos,43.705887244788975,-79.34702342783567,Sandwich Place
-"Thorncliffe Park, Toronto",43.704553,-79.3454074,LCBO,43.706700447882305,-79.34501827004178,Liquor Store
 "Thorncliffe Park, Toronto",43.704553,-79.3454074,Popeyes Louisiana Kitchen,43.7078089496658,-79.34304867541769,Fried Chicken Joint
-"Thorncliffe Park, Toronto",43.704553,-79.3454074,TTC Bus #100 Flemingdon Park,43.70677140337971,-79.34658765792847,Bus Line
-"Thorncliffe Park, Toronto",43.704553,-79.3454074,Cashmere Threads,43.7019915,-79.3433483,Women's Store
-"Thorncliffe Park, Toronto",43.704553,-79.3454074,Mayfair Homes,43.70556,-79.35054,Housing Development
+"Thorncliffe Park, Toronto",43.704553,-79.3454074,Kandahar Kabab,43.70525,-79.348625,Middle Eastern Restaurant
+"Thorncliffe Park, Toronto",43.704553,-79.3454074,Thorncliffe Park Dr & Overlea Blvd,43.704777261349896,-79.35006522829346,Intersection
+"Thorncliffe Park, Toronto",43.704553,-79.3454074,Trendee Chinese Cuisine,43.708212839174564,-79.34261997257181,Asian Restaurant
 "Leaside-Bennington, Toronto",43.7022249,-79.3580119,Amsterdam Brewery,43.70640367812236,-79.3571624797495,Brewery
 "Leaside-Bennington, Toronto",43.7022249,-79.3580119,Leaside Curling Club,43.70115660288897,-79.3607668632099,Curling Ice
 "Leaside-Bennington, Toronto",43.7022249,-79.3580119,Aroma Espresso Bar,43.70561065613986,-79.36077468518098,Coffee Shop
@@ -308,7 +302,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Old East York, Toronto",43.6708625,-79.37279241253721,Bixi Bike Stand,43.66734243633141,-79.37402946169425,Bike Rental / Bike Share
 "Old East York, Toronto",43.6708625,-79.37279241253721,Gateway Newstands,43.67371579258799,-79.36893184865733,Convenience Store
 "Old East York, Toronto",43.6708625,-79.37279241253721,Castle Frank Subway Station,43.67378501123131,-79.36864748597145,Metro Station
-"Old East York, Toronto",43.6708625,-79.37279241253721,Druxy's,43.67135403373765,-79.37867041026186,Sandwich Place
 "Old East York, Toronto",43.6708625,-79.37279241253721,Rosedale Ravine,43.672151681201306,-79.36715009255055,Park
 "The Beaches, Toronto",43.6710244,-79.296712,Kew Gardens,43.66903821389327,-79.29853750338029,Park
 "The Beaches, Toronto",43.6710244,-79.296712,Mastermind Toys,43.67145295439717,-79.29397108948247,Toy / Game Store
@@ -341,19 +334,16 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "The Beaches, Toronto",43.6710244,-79.296712,Gabby's Food & Fuel,43.670809267568956,-79.29665696716665,Bar
 "The Beaches, Toronto",43.6710244,-79.296712,TD Canada Trust,43.6708434,-79.2979563,Bank
 "The Beaches, Toronto",43.6710244,-79.296712,Hero Certified Burgers,43.67036012943005,-79.29892366666198,Burger Joint
-"The Beaches, Toronto",43.6710244,-79.296712,The Dog Market,43.67116322361954,-79.29477313180074,Pet Store
-"The Beaches, Toronto",43.6710244,-79.296712,Thai House Cuisine,43.670899044808316,-79.29607532296733,Thai Restaurant
+"The Beaches, Toronto",43.6710244,-79.296712,Mamma's Pizza,43.671122,-79.294742,Pizza Place
+"The Beaches, Toronto",43.6710244,-79.296712,Absolute Cafe,43.67102219360621,-79.29580904142931,Café
+"The Beaches, Toronto",43.6710244,-79.296712,The UPS Store,43.67125,-79.294455,Shipping Store
 "The Beaches, Toronto",43.6710244,-79.296712,The Salty Dog,43.669943926548086,-79.30089441677708,Restaurant
-"The Beaches, Toronto",43.6710244,-79.296712,Little Elf House Under A Tree,43.66841881985759,-79.29749185982591,Tree
 "The Beaches, Toronto",43.6710244,-79.296712,Scarboro Beach,43.66927312343974,-79.29390202532907,Beach
 "The Beaches, Toronto",43.6710244,-79.296712,Running Room,43.669736,-79.300405,Sporting Goods Shop
 "The Beaches, Toronto",43.6710244,-79.296712,Fiorio Beaches,43.669913,-79.300529,Salon / Barbershop
-"The Beaches, Toronto",43.6710244,-79.296712,The Artisans,43.66976,-79.301167,Jewelry Store
+"The Beaches, Toronto",43.6710244,-79.296712,Pizzaville,43.66970376370504,-79.301243598577,Pizza Place
 "The Beaches, Toronto",43.6710244,-79.296712,The Beach Mall,43.66963103508259,-79.30124680867068,Shopping Mall
 "The Beaches, Toronto",43.6710244,-79.296712,Classical Martial Arts Centre CMAC Beaches Dojo,43.66953861008417,-79.30127847322146,Martial Arts Dojo
-"The Beaches, Toronto",43.6710244,-79.296712,Brick Street Bakery,43.66969393934472,-79.30152984556766,Bakery
-"The Beaches, Toronto",43.6710244,-79.296712,Alex Farm Products (Beaches),43.66968773847534,-79.30166335745092,Cheese Shop
-"The Beaches, Toronto",43.6710244,-79.296712,Midoco,43.66970469870504,-79.30183540378742,Arts & Crafts Store
 "The Beaches, Toronto",43.6710244,-79.296712,Leuty Lifeguard Station,43.66724069171615,-79.29472910316547,Beach
 "The Beaches, Toronto",43.6710244,-79.296712,Lion on the Beach,43.66969945855147,-79.30240540501708,Pub
 "The Beaches, Toronto",43.6710244,-79.296712,Kew Beach Rink,43.66686966277468,-79.29793763561489,Skating Rink
@@ -408,6 +398,9 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Playter Estates-Danforth, Toronto",43.678056,-79.355556,Ali Baba's,43.67637721694004,-79.35808851148246,Falafel Restaurant
 "Playter Estates-Danforth, Toronto",43.678056,-79.355556,A&W,43.6759,-79.35884,Fast Food Restaurant
 "Playter Estates-Danforth, Toronto",43.678056,-79.355556,Pizza Pizza,43.67612903295256,-79.358918424401,Pizza Place
+"Playter Estates-Danforth, Toronto",43.678056,-79.355556,Broadview Convenience,43.67724185014679,-79.3582462983807,Convenience Store
+"Playter Estates-Danforth, Toronto",43.678056,-79.355556,Bad Dog Theatre,43.67643177509308,-79.35795,Theater
+"Playter Estates-Danforth, Toronto",43.678056,-79.355556,Drysdale & Co.,43.676416,-79.35825641,Gift Shop
 "Playter Estates-Danforth, Toronto",43.678056,-79.355556,Zipcar,43.67494436320317,-79.35783931022226,Rental Car Location
 "Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Riverdale Park West,43.66604827676354,-79.36094117493359,Park
 "Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Riverdale Farm,43.66685035126636,-79.36137564770476,Farm
@@ -440,10 +433,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Toronto Kiwanis Boys and Girls Clubs Miles and Kelly Nadal Youth Centre,43.66427394578018,-79.3621520638303,Building
 "Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,No Frills,43.663515,-79.367166,Grocery Store
 "Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Sam Pollock Memorial Baseball Diamond,43.66728179012687,-79.35815334320068,Baseball Field
-"Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Salt & Tobacco,43.66530700653405,-79.36833465285895,Pizza Place
-"Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Fancy Franks,43.664686,-79.368226,Hot Dog Joint
-"Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Grinning Face,43.666625811214026,-79.36895384543233,Ice Cream Shop
-"Cabbagetown-South St.James Town, Toronto",43.6664,-79.3629,Spruce,43.663614,-79.367607,Furniture / Home Store
 "Regent Park, Toronto",43.6607056,-79.3604569,Regent Park Aquatic Centre,43.6606003130796,-79.36139162915349,Pool
 "Regent Park, Toronto",43.6607056,-79.3604569,Daniels Spectrum,43.66013679276432,-79.36180783336452,Performing Arts Venue
 "Regent Park, Toronto",43.6607056,-79.3604569,Thai To Go,43.663418,-79.36071,Thai Restaurant
@@ -464,7 +453,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Regent Park, Toronto",43.6607056,-79.3604569,Vistek,43.65704640025721,-79.35966695607046,Electronics Store
 "Regent Park, Toronto",43.6607056,-79.3604569,Savoury Grounds,43.656820970004496,-79.3589698353747,Coffee Shop
 "Regent Park, Toronto",43.6607056,-79.3604569,Tim Hortons,43.6599299,-79.3659798,Coffee Shop
-"Regent Park, Toronto",43.6607056,-79.3604569,Bark Place Hotel and Spaw,43.6614665351425,-79.3575533174757,Pet Store
 "Regent Park, Toronto",43.6607056,-79.3604569,FreshCo,43.65955158801718,-79.36585713164392,Grocery Store
 "Bay Street Corridor, Toronto",43.6644565,-79.3871893,Wickson Social,43.66590450775969,-79.38571974166427,Gastropub
 "Bay Street Corridor, Toronto",43.6644565,-79.3871893,Como En Casa,43.66516,-79.384796,Mexican Restaurant
@@ -536,7 +524,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Niagara, Toronto",43.6440753,-79.4086982,Type Books,43.645684921039226,-79.41163677423458,Bookstore
 "Niagara, Toronto",43.6440753,-79.4086982,Misfit Studio,43.646308,-79.407839,Yoga Studio
 "Niagara, Toronto",43.6440753,-79.4086982,The Paper Place,43.645665,-79.411644,Paper / Office Supplies Store
-"Niagara, Toronto",43.6440753,-79.4086982,UFO Restaurant,43.64399943323073,-79.40876747284632,Diner
 "Niagara, Toronto",43.6440753,-79.4086982,Stanley Park (Dog Park),43.64166802703168,-79.40926920430412,Dog Run
 "Niagara, Toronto",43.6440753,-79.4086982,Nomad,43.646087154176506,-79.40925372307596,Men's Store
 "Niagara, Toronto",43.6440753,-79.4086982,NADÈGE,43.64573967060089,-79.4114739615318,Bakery
@@ -565,7 +552,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Niagara, Toronto",43.6440753,-79.4086982,Lamesa,43.647052218279086,-79.40465322314158,Filipino Restaurant
 "Niagara, Toronto",43.6440753,-79.4086982,Old Faithful Shop,43.645050932475485,-79.41475079258245,Furniture / Home Store
 "Niagara, Toronto",43.6440753,-79.4086982,iHalo Krunch,43.64602796094083,-79.40960595252326,Ice Cream Shop
-"Niagara, Toronto",43.6440753,-79.4086982,Northern Maverick Brewing Co.,43.64496072902533,-79.40300847066328,Brewery
 "Niagara, Toronto",43.6440753,-79.4086982,Aēsop,43.645090256716806,-79.41447228456677,Cosmetics Shop
 "Niagara, Toronto",43.6440753,-79.4086982,Nam Sandwich Shop,43.64513143431947,-79.41433440936565,Vietnamese Restaurant
 "Niagara, Toronto",43.6440753,-79.4086982,Freshii,43.644139441284516,-79.40279794800523,Salad Place
@@ -573,7 +559,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Niagara, Toronto",43.6440753,-79.4086982,King Rustic,43.641899,-79.412172,Comfort Food Restaurant
 "Niagara, Toronto",43.6440753,-79.4086982,Pizza Nova,43.642010853785024,-79.41190916306661,Pizza Place
 "Niagara, Toronto",43.6440753,-79.4086982,My Roti Place,43.641987,-79.411763,Indian Restaurant
-"Niagara, Toronto",43.6440753,-79.4086982,TTC Stop #04187,43.64205259526671,-79.41223568893021,Light Rail Station
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Folly Brewpub,43.65380564851785,-79.42584996103776,Gastropub
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,The Caledonian,43.6542680945971,-79.42349521727387,Whisky Bar
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Bake Shoppe,43.65421276652194,-79.42359022790981,Bakery
@@ -621,10 +606,11 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,MOJO Lounge,43.6493450392067,-79.42593010837892,Nightclub
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Fountain Enterprises,43.649408483616,-79.42434005994211,Bar
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Rapp Optical,43.654733,-79.421005,Optical Shop
-"Dufferin Grove, Toronto",43.6536319,-79.4264389,Marquee Video,43.652926,-79.429739,Video Store
+"Dufferin Grove, Toronto",43.6536319,-79.4264389,Shorty's Variety,43.65374305549153,-79.42639228960579,Convenience Store
+"Dufferin Grove, Toronto",43.6536319,-79.4264389,Anti Vice Juicery,43.654239,-79.423468,Juice Bar
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Pauls Churrasco,43.65430619343613,-79.4228687227112,Portuguese Restaurant
-"Dufferin Grove, Toronto",43.6536319,-79.4264389,Maderas Cafe,43.654656,-79.422844,Café
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Baby On The Hip,43.65479562561358,-79.42097258769101,Shop & Service
+"Dufferin Grove, Toronto",43.6536319,-79.4264389,Extra Burger,43.649354,-79.427402,Burger Joint
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,Remix Lounge,43.649305417510014,-79.42582307555675,Lounge
 "Dufferin Grove, Toronto",43.6536319,-79.4264389,chabichou,43.654819,-79.420515,Bakery
 "Little Portugal, Toronto",43.64741325,-79.43111632546047,Easy Tiger,43.64961926577923,-79.43022426256454,Boutique
@@ -703,8 +689,8 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Roncesvalles, Toronto",43.6514426,-79.4510381,Pho Nho,43.652054,-79.44766,Vietnamese Restaurant
 "Roncesvalles, Toronto",43.6514426,-79.4510381,Aris Grill,43.65009143382369,-79.45039643854467,Breakfast Spot
 "Roncesvalles, Toronto",43.6514426,-79.4510381,Olga Korper Gallery,43.65280958425027,-79.44644853913702,Art Gallery
-"Roncesvalles, Toronto",43.6514426,-79.4510381,Bentos Auto and Tire,43.6515895,-79.4458864,Auto Workshop
 "Roncesvalles, Toronto",43.6514426,-79.4510381,Columbus Parkette,43.65121695211861,-79.4458444173235,Playground
+"Roncesvalles, Toronto",43.6514426,-79.4510381,C-Q-B Paintball,43.653687594776066,-79.44576765432528,Arts & Entertainment
 "High Park-Swansea, Toronto",43.638093,-79.4665843,Waterfront Trail,43.63585927859915,-79.46752926947985,Trail
 "High Park-Swansea, Toronto",43.638093,-79.4665843,Windermere By The Lake,43.63686165064762,-79.46853601196295,Building
 "High Park-Swansea, Toronto",43.638093,-79.4665843,Sunnyside Park,43.636669660341575,-79.46121173507844,Park
@@ -721,10 +707,10 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "High Park-Swansea, Toronto",43.638093,-79.4665843,Humber Marshes,43.63535251460459,-79.47038025781754,Park
 "High Park-Swansea, Toronto",43.638093,-79.4665843,Grenadier Pond,43.641917456886986,-79.4653703696696,Lake
 "High Park North, Toronto",43.6573833,-79.470961,Revina Park,43.65868647524527,-79.4730773540552,Baseball Field
+"High Park North, Toronto",43.6573833,-79.470961,High Park Tennis Club,43.656019818624834,-79.46710078958746,Tennis Court
 "High Park North, Toronto",43.6573833,-79.470961,High Park Tuck Shop,43.65666565106496,-79.46662836072059,Convenience Store
 "High Park North, Toronto",43.6573833,-79.470961,Ravina Park,43.660953730646014,-79.472722903121,Park
-"High Park North, Toronto",43.6573833,-79.470961,Sleep Country,43.653040598947186,-79.47010559998408,Mattress Store
-"High Park North, Toronto",43.6573833,-79.470961,High Park Village Fitness,43.655577317000144,-79.46526867033697,Gym / Fitness Center
+"High Park North, Toronto",43.6573833,-79.470961,Bennett Parkette,43.65391879339464,-79.4671871696148,Park
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Baka Gallery Cafe,43.65103966439781,-79.47760530158712,Café
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Bread & Roses Bakery Cafe,43.651194318292276,-79.47665677628656,Bakery
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Zaza Espresso Bar & Gelato,43.65110626640462,-79.4777101044724,Café
@@ -761,10 +747,8 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Second Cup,43.650136727534054,-79.48079476951547,Café
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Shoppers Drug Mart,43.651105,-79.476428,Pharmacy
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,System Fitness,43.652348322402425,-79.47126007281913,Gym
-"Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Kingsway Meat Products & Deli,43.65029869776588,-79.48082685470581,Butcher
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Swansea School of Dance,43.64807706026409,-79.47900494041677,Dance Studio
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Retrofit Pilates,43.647948823562515,-79.47905374028939,Pilates Studio
-"Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,Sleep Country,43.653040598947186,-79.47010559998408,Mattress Store
 "Runnymede-Bloor West Village, Toronto",43.6517026,-79.4759978,High Park Soccer Fields,43.64778790020899,-79.47299459298121,Soccer Field
 "Weston-Pellam Park, Toronto",43.672,-79.457,"The Den Toronto : Workshops, Bench Rentals and Designer Jewellers",43.670637780416506,-79.45661466475582,Jewelry Store
 "Weston-Pellam Park, Toronto",43.672,-79.457,Sabor Brasil Restaurant,43.67444516608626,-79.45922778096221,Brazilian Restaurant
@@ -775,6 +759,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Weston-Pellam Park, Toronto",43.672,-79.457,Cùu Long Miên Tây,43.674141834496375,-79.46051957889887,Vietnamese Restaurant
 "Weston-Pellam Park, Toronto",43.672,-79.457,Dairy Freeze,43.67519526623445,-79.454845523465,Burger Joint
 "Weston-Pellam Park, Toronto",43.672,-79.457,Nova Era Bakery Pastry,43.67570091309208,-79.45392144172526,Bakery
+"Weston-Pellam Park, Toronto",43.672,-79.457,El Rancherito Asados Restaurant,43.67476886022006,-79.45772317110759,Latin American Restaurant
 "Weston-Pellam Park, Toronto",43.672,-79.457,Bánh Cuôn Phò Gà,43.674076,-79.460987,Vietnamese Restaurant
 "Weston-Pellam Park, Toronto",43.672,-79.457,Pizza Pita Pan,43.67372099544363,-79.4626345916263,Pizza Place
 "Corso Italia-Davenport, Toronto",43.677954,-79.4430828,Marcello's Pizzeria,43.678017280681544,-79.44272454257002,Italian Restaurant
@@ -798,7 +783,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Corso Italia-Davenport, Toronto",43.677954,-79.4430828,Vivid Lounge Bar,43.67864848731031,-79.43919641229023,Lounge
 "Corso Italia-Davenport, Toronto",43.677954,-79.4430828,Tim Hortons,43.678103241264495,-79.44363079503097,Coffee Shop
 "Corso Italia-Davenport, Toronto",43.677954,-79.4430828,Boubah's Pet Store,43.679113611062796,-79.43801586413622,Pet Store
-"Corso Italia-Davenport, Toronto",43.677954,-79.4430828,Latin World,43.679285,-79.438193,Taco Place
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Dovercourt Park,43.664915496359505,-79.43412931213085,Park
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Rosie Robin A Touch Of Convenience,43.66318235854112,-79.43542722772675,Café
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Field Trip Cafe,43.66125961972056,-79.43044968471274,Café
@@ -820,10 +804,11 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Shoppers Drug Mart,43.661591,-79.428741,Pharmacy
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,The Empire: Middle Eastern & East African Food,43.66085492889121,-79.43090550383728,Middle Eastern Restaurant
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,TTC Bus #29 Dufferin,43.664738019572184,-79.43709737814093,Bus Line
+"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Foto Grocery,43.66797858931121,-79.42821689567089,Grocery Store
 "Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Disgraceland,43.66142,-79.428702,Bar
-"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Luanda House,43.661234837159434,-79.42908447444685,Dance Studio
-"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,The Maker Bean,43.660603,-79.43245,Café
-"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,United Boxing Club,43.66062263080974,-79.43130254745483,Boxing Gym
+"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Zoinks Music and Books,43.660741,-79.4309,Record Shop
+"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Laziza,43.66143137745833,-79.42834926105746,Mediterranean Restaurant
+"Dovercourt-Wallace Emerson-Juncti, Toronto",43.665,-79.432,Stop BBQ Chicken,43.665923081653766,-79.43804189355156,Brazilian Restaurant
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Wychwood Barns Farmers' Market,43.68001040153905,-79.42384857341463,Farmers Market
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,The Stockyards,43.681570353914765,-79.4262096115835,BBQ Joint
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,CocoaLatte,43.68176818183194,-79.42515763384645,Café
@@ -866,24 +851,14 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Kay Pacha,43.68141,-79.427892,Peruvian Restaurant
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Subway,43.68292806451969,-79.4184994344239,Sandwich Place
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Pizza e Pazzi Wychwood,43.68180770210691,-79.42553973370774,Italian Restaurant
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Chuck & Co.,43.68175,-79.425295,Burger Joint
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Clay,43.681766,-79.424753,Shop & Service
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Christie & St. Clair,43.68163801900727,-79.42568812093815,Intersection
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Wychwood Avenue & St. Clair Avenue West,43.68204933581579,-79.42400638500507,Light Rail Station
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Salvation Army Thrift Store,43.681848909583216,-79.42501061650167,Thrift / Vintage Store
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Rocket Cycle,43.68165411662311,-79.42590420627609,Cycle Studio
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Humewood Park,43.68381549369613,-79.42579162536636,Playground
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Wychwood Barns Community Gallery,43.67938613334865,-79.4242537010372,Art Gallery
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Chamsine,43.682865,-79.420153,Middle Eastern Restaurant
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Harvey's,43.68291381433591,-79.41851662826758,Restaurant
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Jugo Juice,43.683015,-79.427568,Juice Bar
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,mabel's,43.681219,-79.427741,Bakery
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,McDonald's,43.68175823904737,-79.42694977578196,Fast Food Restaurant
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,St.Clair West At ARLINGTON,43.68113228474074,-79.42849644161883,Light Rail Station
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Big Bee Convenience,43.68291964919386,-79.41867250217345,Snack Place
+"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Bathurst & St Clair,43.68315150618663,-79.4185890250993,Intersection
+"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Mister Milk,43.686109,-79.422493,Convenience Store
 "Wychwood, Toronto",43.682121699999996,-79.42383883756801,Social Dance Spot,43.68300607584768,-79.4294581756021,Dance Studio
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,Roast Butcher Shop,43.68097793606934,-79.42950763593552,Market
-"Wychwood, Toronto",43.682121699999996,-79.42383883756801,St. Michael's College School Theatre,43.684485723158566,-79.4188159677326,Theater
 "Casa Loma, Toronto",43.6781015,-79.409415775,Casa Loma,43.677934,-79.409521,Castle
 "Casa Loma, Toronto",43.6781015,-79.409415775,Baldwin Steps,43.67770700052798,-79.40820890386739,Historic Site
 "Casa Loma, Toronto",43.6781015,-79.409415775,Casa Loma Stables,43.679394728878336,-79.41090455690367,Museum
@@ -908,12 +883,14 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Casa Loma, Toronto",43.6781015,-79.409415775,Shoppers Drug Mart,43.674959,-79.407986,Pharmacy
 "Casa Loma, Toronto",43.6781015,-79.409415775,Tim Hortons,43.67663479864622,-79.41157221794134,Coffee Shop
 "Rosedale-Moore Park, Toronto",43.6903876,-79.3832965,Pure Fitness,43.693006599930136,-79.38778127126965,Gym
-"Rosedale-Moore Park, Toronto",43.6903876,-79.3832965,St. Clair Ave E & Mt. Pleasant Rd,43.69035,-79.383313,Intersection
+"Rosedale-Moore Park, Toronto",43.6903876,-79.3832965,Ravine,43.69035594864729,-79.38684099383201,Trail
 "Rosedale-Moore Park, Toronto",43.6903876,-79.3832965,Moorevale Park,43.693609879336925,-79.38346507970056,Playground
 "Rosedale-Moore Park, Toronto",43.6903876,-79.3832965,On The Run,43.6934103605598,-79.38650560722076,Convenience Store
+"Rosedale-Moore Park, Toronto",43.6903876,-79.3832965,Totum Life Science St. Clair,43.68652516898866,-79.38344858470381,Gym
 "Caledonia-Fairbank, Toronto",43.6867527,-79.4595746,Bert Robinson Park,43.68810982876192,-79.46150839424742,Park
 "Caledonia-Fairbank, Toronto",43.6867527,-79.4595746,Mike's Men's Hair Styling,43.68381048287364,-79.45995366980489,Cosmetics Shop
-"Caledonia-Fairbank, Toronto",43.6867527,-79.4595746,Enriched Med Spa,43.68363938500588,-79.45814609527588,Spa
+"Caledonia-Fairbank, Toronto",43.6867527,-79.4595746,Rex Building Materials,43.6831381,-79.4616759,Construction & Landscaping
+"Caledonia-Fairbank, Toronto",43.6867527,-79.4595746,Angel's Bakery and Deli,43.68306309762841,-79.45730013938238,Bakery
 "Weston, Toronto",43.7001608,-79.5162474,UP Express - Weston Station,43.700256,-79.51366,Train Station
 "Weston, Toronto",43.7001608,-79.5162474,P&M Restaurant,43.70110845129989,-79.5189817242212,Diner
 "Weston, Toronto",43.7001608,-79.5162474,Weston Lions Arena,43.69870670108964,-79.51854809647945,Skating Rink
@@ -925,6 +902,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Weston, Toronto",43.7001608,-79.5162474,Tim Hortons,43.70090969892793,-79.51169161495478,Coffee Shop
 "Weston, Toronto",43.7001608,-79.5162474,Weston GO Station,43.70021244961973,-79.5133452504582,Train Station
 "Weston, Toronto",43.7001608,-79.5162474,Subway,43.700943246034775,-79.51082954379928,Sandwich Place
+"Weston, Toronto",43.7001608,-79.5162474,Perfect Blend Bakery & Espresso Bar,43.700565338134766,-79.51740264892578,Café
 "Weston, Toronto",43.7001608,-79.5162474,Ali Baba's,43.69995547594193,-79.51410077761379,Middle Eastern Restaurant
 "Weston, Toronto",43.7001608,-79.5162474,West Lions Park,43.698465872229214,-79.51687894119398,Soccer Field
 "Weston, Toronto",43.7001608,-79.5162474,Greenland Farm Supermarket,43.7016347647671,-79.51920133323222,Grocery Store
@@ -954,8 +932,8 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Mexitaco,43.708595,-79.2957,Mexican Restaurant
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,McDonald's,43.709283877697544,-79.29524527670384,Fast Food Restaurant
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Subway,43.70906989947632,-79.29577449163514,Sandwich Place
+"Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,St Clair Ave E & Pharmacy Ave,43.710194,-79.29087,Intersection
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Hamish's Kitchen Fish & Chips,43.71090922198756,-79.29083799058881,Diner
-"Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Jumbo Hamburger,43.71071626330615,-79.2907994639117,Diner
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Becker's Milk & Variety,43.711719348452974,-79.29139852523804,Convenience Store
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Tom's No Frills,43.708313,-79.295954,Grocery Store
 "Clairlea-Birchmount, Toronto",43.709722,-79.29083299999999,Lucky Lotto Conveniece,43.70879475993049,-79.29566470720046,Convenience Store
@@ -969,7 +947,7 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,Subway,43.70960585066443,-79.24811998885082,Sandwich Place
 "Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,No Frills,43.709391,-79.24814,Grocery Store
 "Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,Tara Inn,43.70745735096787,-79.25043918907096,Pub
-"Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,Bulk Barn,43.708699538649995,-79.25017338357856,Snack Place
+"Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,Rexall Pharma Plus,43.70884599952643,-79.2489831674816,Pharmacy
 "Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,Pizza Pizza,43.7102,-79.24284,Pizza Place
 "Birchcliffe-Cliffside, Toronto",43.711110999999995,-79.248056,Eggsmart,43.707048,-79.250189,Breakfast Spot
 "Cliffcrest, Toronto",43.7219387,-79.2362324,Dairy Queen,43.722757687671276,-79.23562467098236,Ice Cream Shop
@@ -977,10 +955,12 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Cliffcrest, Toronto",43.7219387,-79.2362324,Pizza Pizza,43.722490904836995,-79.23527706203652,Pizza Place
 "Cliffcrest, Toronto",43.7219387,-79.2362324,Canadian Tire,43.72100515830479,-79.23778954268072,Hardware Store
 "Cliffcrest, Toronto",43.7219387,-79.2362324,Big Boy's Burger,43.721751,-79.236301,Burger Joint
+"Cliffcrest, Toronto",43.7219387,-79.2362324,LCBO,43.725183,-79.232039,Liquor Store
 "Cliffcrest, Toronto",43.7219387,-79.2362324,Dollarama,43.724705,-79.231379,Discount Store
 "Ionview, Toronto",43.7359904,-79.2765146,Vienna Fine Foods,43.733638786308916,-79.27929783335928,Deli / Bodega
 "Ionview, Toronto",43.7359904,-79.2765146,Maida Vale Park,43.7352718400549,-79.27720711769979,Park
-"Ionview, Toronto",43.7359904,-79.2765146,R3AS,43.73445292873336,-79.27939295768738,Business Service
+"Ionview, Toronto",43.7359904,-79.2765146,Lin Chinese Restaurant,43.735107,-79.276122,Chinese Restaurant
+"Ionview, Toronto",43.7359904,-79.2765146,The Wiring Mart Ltd,43.734867,-79.281546,Construction & Landscaping
 "Ionview, Toronto",43.7359904,-79.2765146,Bloor-Danforth Subway Line,43.7323674193891,-79.27911964507403,Metro Station
 "Dorset Park, Toronto",43.7528467,-79.282067,Starbucks,43.752465,-79.276364,Coffee Shop
 "Dorset Park, Toronto",43.7528467,-79.282067,Kim Kim restaurant,43.75383283792732,-79.27661122245037,Chinese Restaurant
@@ -989,16 +969,14 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Dorset Park, Toronto",43.7528467,-79.282067,KFC,43.752966,-79.276152,Fast Food Restaurant
 "Dorset Park, Toronto",43.7528467,-79.282067,Kennedy Bowlerama,43.750512149749966,-79.27704001209094,Bowling Alley
 "Dorset Park, Toronto",43.7528467,-79.282067,TechDirect,43.75273882426964,-79.27656226036426,Electronics Store
-"Dorset Park, Toronto",43.7528467,-79.282067,White Shield Plaza,43.750566232551144,-79.27750444784891,Plaza
+"Dorset Park, Toronto",43.7528467,-79.282067,Cake House Bakery,43.750564158244494,-79.27714901348529,Bakery
 "Dorset Park, Toronto",43.7528467,-79.282067,Ardene,43.75085010220369,-79.27677453747606,Accessories Store
 "Dorset Park, Toronto",43.7528467,-79.282067,Omescape Scarborough,43.754158,-79.27623,Gaming Cafe
 "Bendale, Toronto",43.7535196,-79.2553355,Thomson Memorial Dog Park,43.75625331806605,-79.25329447767166,Dog Run
 "Bendale, Toronto",43.7535196,-79.2553355,Top Food Supermarket,43.75239565783231,-79.25994551019312,Grocery Store
-"Bendale, Toronto",43.7535196,-79.2553355,Dollarama,43.75309146859,-79.25523257557052,Discount Store
+"Bendale, Toronto",43.7535196,-79.2553355,Ding Ho Chinese Food,43.75350728078251,-79.25354224810086,Chinese Restaurant
 "Bendale, Toronto",43.7535196,-79.2553355,Brimley Rd & Lawrence Ave E,43.753405238864296,-79.25562478145122,Intersection
-"Bendale, Toronto",43.7535196,-79.2553355,S.P Importers,43.75368885528673,-79.25359180210818,Department Store
 "Bendale, Toronto",43.7535196,-79.2553355,Thomson Park Tennis Club,43.756073581682955,-79.25515299287007,Tennis Court
-"Bendale, Toronto",43.7535196,-79.2553355,Scarborough Eye Associates,43.75416485927842,-79.25121868637638,Optical Shop
 "Bendale, Toronto",43.7535196,-79.2553355,McDonald's,43.75184937356888,-79.2607827001242,Fast Food Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Planet Fitness North Scarborough,43.824095167666584,-79.30141064389495,Gym
 "Milliken, Toronto",43.8231743,-79.3017626,Kenny's Noodles 聯記麵家,43.82448380501352,-79.30054153514435,Hong Kong Restaurant
@@ -1025,20 +1003,20 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Milliken, Toronto",43.8231743,-79.3017626,Papa Chang's Express,43.825612253421184,-79.30634093652581,Taiwanese Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Wendy’s,43.825438368881265,-79.29770573973656,Fast Food Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Lychee Bay Cuisine 荔枝灣,43.825232139581765,-79.29870929713242,Chinese Restaurant
-"Milliken, Toronto",43.8231743,-79.3017626,Silver Star Bbq,43.82268,-79.30068,BBQ Joint
-"Milliken, Toronto",43.8231743,-79.3017626,Max Sports,43.82395494454957,-79.30285203505467,Sporting Goods Shop
-"Milliken, Toronto",43.8231743,-79.3017626,Verdant Garden Chinese Restaurant 翠苑,43.82283436642583,-79.30083237476724,Cantonese Restaurant
-"Milliken, Toronto",43.8231743,-79.3017626,Yi Fang Taiwan Fruit Tea 一芳水果茶,43.821981,-79.298863,Bubble Tea Shop
-"Milliken, Toronto",43.8231743,-79.3017626,Silverstar Food Court 國際美食廣場,43.822018222616194,-79.29880784326527,Food Court
-"Milliken, Toronto",43.8231743,-79.3017626,New Canton Kitchen 廣東小炒,43.82182011805523,-79.29868273765992,Chinese Restaurant
+"Milliken, Toronto",43.8231743,-79.3017626,Sup Bookstore,43.82268798107597,-79.29887320751244,Bookstore
+"Milliken, Toronto",43.8231743,-79.3017626,Pot Rice & Rolls House,43.82176164219487,-79.29910434736094,Asian Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Fishman Village 漁家灯火,43.825627,-79.299381,Seafood Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Aqua Inspiration,43.821485761696664,-79.30549898959309,Pet Store
 "Milliken, Toronto",43.8231743,-79.3017626,Club Kennedy,43.821916,-79.305883,Food & Drink Shop
+"Milliken, Toronto",43.8231743,-79.3017626,Fruit Jungle 三不賣,43.82556539307498,-79.30476472842194,Juice Bar
+"Milliken, Toronto",43.8231743,-79.3017626,A Taste Of Pho,43.82579336780663,-79.30446993302637,Vietnamese Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Japanese Express 櫻花日本料理,43.82561059140757,-79.30609703063965,Japanese Restaurant
-"Milliken, Toronto",43.8231743,-79.3017626,Windsor Fine Bakeries,43.825862,-79.304985,Bakery
-"Milliken, Toronto",43.8231743,-79.3017626,Fuji Optical,43.82542482326823,-79.30635452270508,Optical Shop
+"Milliken, Toronto",43.8231743,-79.3017626,Hot Star 豪大大雞排,43.825454,-79.30625,Fried Chicken Joint
 "Milliken, Toronto",43.8231743,-79.3017626,Pacific Mall 太古廣場,43.82615241184529,-79.30631160736084,Shopping Mall
+"Milliken, Toronto",43.8231743,-79.3017626,Neohome Houseware 千色家品,43.826927564403356,-79.30481111881387,Furniture / Home Store
+"Milliken, Toronto",43.8231743,-79.3017626,Prince B.B.Q. 皇子燒臘美食店,43.82678074982466,-79.3051302914859,Chinese Restaurant
 "Milliken, Toronto",43.8231743,-79.3017626,Watami Sushi & Grill,43.82675808009007,-79.30524661272341,Japanese Restaurant
+"Milliken, Toronto",43.8231743,-79.3017626,Shark's Fin City 魚翅城美食軒,43.82613693132962,-79.30629014968872,Chinese Restaurant
 "Rouge, Toronto",43.8049304,-79.1658374,Dean Park,43.80436379110694,-79.16915938899648,Park
 "Rouge, Toronto",43.8049304,-79.1658374,Paul's Breakfast & Burgers,43.80383471735262,-79.1698247978354,Fast Food Restaurant
 "Malvern, Toronto",43.8091955,-79.2217008,Shoppers Drug Mart,43.80961,-79.222729,Pharmacy
@@ -1049,12 +1027,13 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Malvern, Toronto",43.8091955,-79.2217008,Malvern Arena,43.808593521938036,-79.21663377206129,Skating Rink
 "Malvern, Toronto",43.8091955,-79.2217008,KFC,43.806811867682626,-79.22078609079313,Fast Food Restaurant
 "Malvern, Toronto",43.8091955,-79.2217008,Francois' No Frills,43.808416,-79.22352,Grocery Store
-"Malvern, Toronto",43.8091955,-79.2217008,Circle K,43.808096566480764,-79.2204486130208,Convenience Store
 "Malvern, Toronto",43.8091955,-79.2217008,McDonald's,43.8062366,-79.2215593,Fast Food Restaurant
 "Malvern, Toronto",43.8091955,-79.2217008,Real Fruit Bubble Tea 真果茶坊,43.80670914169484,-79.22275865163135,Bubble Tea Shop
 "Malvern, Toronto",43.8091955,-79.2217008,Telfer park,43.80730965369703,-79.22640323638916,Park
 "Highland Creek, Toronto",43.7901172,-79.1733344,Highland Creek,43.790281030437924,-79.17370319366455,Neighborhood
+"Highland Creek, Toronto",43.7901172,-79.1733344,Rapid Tac Roofing & Metal Works,43.78889849999999,-79.1731977,Construction & Landscaping
 "Highland Creek, Toronto",43.7901172,-79.1733344,Vloga Inc,43.790138662,-79.1791749,IT Services
+"Highland Creek, Toronto",43.7901172,-79.1733344,Canmore Park,43.79240145154891,-79.17833874851074,Park
 "Morningside, Toronto",43.7826012,-79.2049579,Morningside Park,43.786545739068686,-79.20532166956865,Park
 "Morningside, Toronto",43.7826012,-79.2049579,Food Basics,43.78418291265754,-79.20378863812857,Supermarket
 "Morningside, Toronto",43.7826012,-79.2049579,Subway,43.78400297367862,-79.20462770109486,Sandwich Place
@@ -1064,7 +1043,6 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Morningside, Toronto",43.7826012,-79.2049579,Shoppers Drug Mart,43.780599,-79.205009,Pharmacy
 "Morningside, Toronto",43.7826012,-79.2049579,Wendy’s,43.78327147889442,-79.20439302921295,Fast Food Restaurant
 "Morningside, Toronto",43.7826012,-79.2049579,Tim Hortons,43.7832509827786,-79.2044010758399,Coffee Shop
-"Morningside, Toronto",43.7826012,-79.2049579,Daisy Mart,43.78371114552573,-79.20453155788482,Convenience Store
 "Morningside, Toronto",43.7826012,-79.2049579,La Prep,43.7804278557511,-79.20504939039861,Café
 "Morningside, Toronto",43.7826012,-79.2049579,Seven Oaks Park,43.78654962830697,-79.20533328583764,Park
 "Morningside, Toronto",43.7826012,-79.2049579,Bell World,43.78342,-79.19959,Mobile Phone Shop
@@ -1091,13 +1069,13 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "West Hill, Toronto",43.7689144,-79.1872905,Food Basics,43.770184072629206,-79.18485161662375,Supermarket
 "West Hill, Toronto",43.7689144,-79.1872905,Pizza Pizza,43.7684131598454,-79.18792963027954,Pizza Place
 "West Hill, Toronto",43.7689144,-79.1872905,Joseph's No Frills,43.769591,-79.187669,Grocery Store
+"West Hill, Toronto",43.7689144,-79.1872905,Bus Stop: 54 & 116 & 86D,43.76833568239687,-79.18627738952637,Bus Line
+"West Hill, Toronto",43.7689144,-79.1872905,Rexall,43.768806,-79.188405,Pharmacy
+"West Hill, Toronto",43.7689144,-79.1872905,Best Coin Laundry,43.7686202,-79.1853145,Laundromat
 "West Hill, Toronto",43.7689144,-79.1872905,Taco Bell,43.76897348406054,-79.18572339221208,Restaurant
 "West Hill, Toronto",43.7689144,-79.1872905,Lawrence Ave E & Kingston Rd,43.767704,-79.18949,Intersection
 "West Hill, Toronto",43.7689144,-79.1872905,National Thrift,43.76799932703117,-79.19024597235247,Thrift / Vintage Store
 "West Hill, Toronto",43.7689144,-79.1872905,Eggsmart,43.7678,-79.190466,Breakfast Spot
-"West Hill, Toronto",43.7689144,-79.1872905,Convenience Plus,43.76932738615917,-79.18344497680664,Convenience Store
-"West Hill, Toronto",43.7689144,-79.1872905,The Source,43.7708418560167,-79.18445509436405,Electronics Store
-"West Hill, Toronto",43.7689144,-79.1872905,Pita Land,43.7714507457918,-79.18529812721859,Greek Restaurant
 "West Hill, Toronto",43.7689144,-79.1872905,Big Bite Burrito,43.766299084470795,-79.19071980583941,Mexican Restaurant
 "West Hill, Toronto",43.7689144,-79.1872905,Woburn Medical Centre,43.766631153138455,-79.19228553771973,Medical Center
 "West Hill, Toronto",43.7689144,-79.1872905,Kal Tire,43.772666,-79.184443,Automotive Shop
@@ -1120,10 +1098,8 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Woburn, Toronto",43.7598243,-79.2252908,Tim Hortons,43.7600275806821,-79.2265453934669,Coffee Shop
 "Woburn, Toronto",43.7598243,-79.2252908,Canadian Tire,43.758451386632125,-79.2265225398945,Hardware Store
 "Woburn, Toronto",43.7598243,-79.2252908,Burger King,43.7593824,-79.2256073,Fast Food Restaurant
-"Woburn, Toronto",43.7598243,-79.2252908,Soon Lee Supermarket,43.7605247720209,-79.2247855024435,Grocery Store
-"Woburn, Toronto",43.7598243,-79.2252908,Gamestop,43.758683530734665,-79.22779265175178,Electronics Store
-"Woburn, Toronto",43.7598243,-79.2252908,Hakim Optical,43.75954012,-79.22896401,Optical Shop
 "Woburn, Toronto",43.7598243,-79.2252908,McDonald's,43.757214,-79.229246,Fast Food Restaurant
+"Woburn, Toronto",43.7598243,-79.2252908,Bentley,43.756847571728294,-79.22608137130737,Luggage Store
 "Woburn, Toronto",43.7598243,-79.2252908,Dollarama,43.757824,-79.228572,Discount Store
 "Eglinton East, Toronto",43.7394646,-79.2320997,Anjappar Authentic Chettinadu Restaurant,43.741592093369114,-79.22679861121233,Indian Restaurant
 "Eglinton East, Toronto",43.7394646,-79.2320997,Dairy Queen,43.73950592131142,-79.23689366388604,Ice Cream Shop
@@ -1138,11 +1114,9 @@ Neighborhood,Neighborhood Latitude,Neighborhood Longitude,Venue,Venue Latitude,V
 "Scarborough Village, Toronto",43.7437422,-79.2116324,Tim Hortons,43.74418107087957,-79.21598687767982,Coffee Shop
 "Scarborough Village, Toronto",43.7437422,-79.2116324,Markington Square,43.74270175812357,-79.21371944893411,Shopping Mall
 "Scarborough Village, Toronto",43.7437422,-79.2116324,Metro Pharmacy,43.742951088631926,-79.21676599653438,Pharmacy
-"Scarborough Village, Toronto",43.7437422,-79.2116324,Dollarama,43.743592,-79.214634,Discount Store
 "Scarborough Village, Toronto",43.7437422,-79.2116324,Phoenix Pan Asian Cuisine,43.74613,-79.209647,Chinese Restaurant
 "Guildwood, Toronto",43.7552251,-79.1982293,Guildwood GO Station,43.754976871435844,-79.19837243831087,Train Station
 "Guildwood, Toronto",43.7552251,-79.1982293,U-Haul Neighborhood Dealer,43.7562070660306,-79.19909437180013,Storage Facility
 "Guildwood, Toronto",43.7552251,-79.1982293,Greenvale,43.756564623990926,-79.1992428928434,Baseball Field
 "Guildwood, Toronto",43.7552251,-79.1982293,VIA Rail Guildwood,43.75506979950294,-79.1980143375963,Train Station
 "Guildwood, Toronto",43.7552251,-79.1982293,Dream Touch Spa,43.759,-79.1985,Spa
-"Guildwood, Toronto",43.7552251,-79.1982293,Pool Mates Pool & Hot Tub Inc.,43.7593442857143,-79.1971257142857,Miscellaneous Shop
